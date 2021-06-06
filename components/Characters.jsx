@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, Image, StyleSheet, ImageBackground } from "react-native";
+import { View, Text, Image, StyleSheet } from "react-native";
 
 import { tailwind } from "../tailwind";
 
