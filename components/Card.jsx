@@ -15,7 +15,7 @@ const Card = (props) => {
   console.log("here me : ", props);
 
   return (
-    <View style={tailwind("m-4 p-2 w-64 rounded-xl relative")}>
+    <View style={tailwind("m-4 w-64 rounded-xl relative")}>
       <LinearGradient
         start={{ x: 0.0, y: 0.35 }}
         end={{ x: 0.2, y: 0.8 }}
@@ -27,7 +27,7 @@ const Card = (props) => {
           "#240046ff",
           "#240046ff",
         ]}
-        style={tailwind("rounded-xl")}
+        style={tailwind("rounded-xl p-2")}
       >
         <View style={styles.card}>
           {/* <Image style={} source = {{uri : ''}}/>  */}
