@@ -7,7 +7,8 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "eject": "expo eject",
-    "build-css": "npx create-tailwind-rn"
+    "build-css": "npx create-tailwind-rn",
+    "export" : " expo export --public-url https://movie-cards-mock-with-react-native.netlify.app/"
   },
   "dependencies": {
     "@react-native-community/masked-view": "0.1.10",

@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "swars-mocks",
-    "slug": "swars-mocks",
+    "name": "Movie Cards Mock",
+    "slug": "movie-cards-mock-with-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",

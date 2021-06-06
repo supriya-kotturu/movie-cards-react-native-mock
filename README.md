@@ -1,4 +1,4 @@
-# movie-cards-react-native-mock
+# movie-cards-mock-with-react-native
 
 A simple mock for movie and character cards using react-native and tailwindcss.
 
@@ -7,6 +7,7 @@ A simple mock for movie and character cards using react-native and tailwindcss.
 - react-native
 - tailwind-rn
 - react-navigation
+- react-navigation-stack
 - expo-linear-gradient
 
 ## Installation
@@ -15,4 +16,4 @@ A simple mock for movie and character cards using react-native and tailwindcss.
 
 ## Try it out
 
-` netlify.url`
+[https://movie-cards-mock-with-react-native.netlify.app/](https://movie-cards-mock-with-react-native.netlify.app/)
