@@ -1,6 +1,8 @@
 {
   "expo": {
     "name": "Movie Cards Mock",
+    "description": "A simple mock for movie and character cards using react-native and tailwindcss",
+    "primaryColor" : "#9d4eddff" ,
     "slug": "movie-cards-mock-with-react-native",
     "version": "1.0.0",
     "orientation": "portrait",

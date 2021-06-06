@@ -16,4 +16,4 @@ A simple mock for movie and character cards using react-native and tailwindcss.
 
 ## Try it out
 
-[https://movie-cards-mock-with-react-native.netlify.app/](https://movie-cards-mock-with-react-native.netlify.app/)
+[https://expo.io/@supriya-kotturu/movie-cards-mock-with-react-native/](https://expo.io/@supriya-kotturu/movie-cards-mock-with-react-native)
